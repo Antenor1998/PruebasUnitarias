@@ -1,0 +1,54 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://arierp.gruposisprovisa.net",
+      "localStorage": [
+        {
+          "name": "companies",
+          "value": "[\"lK20zbAk4JRDVEa1\",\"ZVxnY7APdArkgl3o\",\"NZ9DezJWqMQOnRE3\",\"gElXYKpQBM5DB3qv\",\"B9oQdeA10Mvl1Waw\",\"vYjl7bMw8AaZLGBd\"]"
+        },
+        {
+          "name": "fullName",
+          "value": "Antenor López"
+        },
+        {
+          "name": "workCenters",
+          "value": "[]"
+        },
+        {
+          "name": "clientId",
+          "value": "lK20zbAk4JRDVEa1"
+        },
+        {
+          "name": "languaje",
+          "value": "es"
+        },
+        {
+          "name": "isFirstLogin",
+          "value": "false"
+        },
+        {
+          "name": "levelMenu",
+          "value": "undefined"
+        },
+        {
+          "name": "departments",
+          "value": "[\"lK20zbAk4JRDVEa1\",\"b93BVzJ3zAZelEd7\",\"ZVxnY7APdArkgl3o\",\"0lyV37pbnpEz9ZPN\",\"PrvVm5p8gJabq4XW\",\"YbdPmkMjBMzqXElv\",\"NZ9DezJWqMQOnRE3\",\"gElXYKpQBM5DB3qv\",\"jNwnVgJE0A1LzokE\",\"B9oQdeA10Mvl1Waw\",\"vYjl7bMw8AaZLGBd\",\"KGO6L8pKnJ2XlEw3\",\"5m2XOBMXzJ4NZkwr\",\"b8QWwNJYxAGr5gER\",\"gjdkW9peBMGDYOmx\",\"Y2QRyZJDeplB3GKw\",\"P2nmOGMgxAErYg9b\"]"
+        },
+        {
+          "name": "breadcrumbNavigation",
+          "value": "[]"
+        },
+        {
+          "name": "userId",
+          "value": "jNwnVgJEE0J1Lzok"
+        },
+        {
+          "name": "username",
+          "value": "Antenor"
+        }
+      ]
+    }
+  ]
+}
